@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning AWS and Java
 - 👯 I’m looking to collaborate in open source projects
-- 🤔 I’m looking for help with Java and Machine learning
+- 🤔 I’m looking for help with Java and Machine learning 🧠
 - 💬 Ask me about C#
 - 📫 How to reach me: alejaosm19@gmail.com
 
