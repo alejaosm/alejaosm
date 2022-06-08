@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning AWS and Java
 - 👯 I’m looking to collaborate on open source repositories
-- 🤔 I’m looking for help with Java
+- 🤔 I’m looking for help with Java and Machine learning
 - 💬 Ask me about C#
 - 📫 How to reach me: alejaosm19@gmail.com
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning AWS and Java
 - 👯 I’m looking to collaborate on open source repositories
-- 🤔 I’m looking for help with Java
+- 🤔 I’m looking for help with Java and Machine learning
 - 💬 Ask me about C#
 - 📫 How to reach me: alejaosm19@gmail.com
 - 😄 Pronouns: ...
