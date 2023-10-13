@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate in open source projects
 - 🤔 I’m looking for help with Java and Machine learning 🧠
 - 💬 Ask me about C#
-- 📫 How to reach me: alejaosm19@gmail.com
+- 📫 How to reach me: alejaosm19@gmail.com or inge.mariale@gmail.com
 
 <!--
 **alejaosm/alejaosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
